@@ -2,7 +2,7 @@
 #import numpy as np
 #import matplotlib.pyplot as plt
 import pandas as pd
-import pickle
+import pickle 
 
 dataset = pd.read_csv('hiring.csv')
 
